@@ -1,0 +1,112 @@
+.img-sizing {
+    height: 92px;
+    width: 95px;
+    padding: 5px;
+}
+#nav-link2 {
+    color: black;
+    font-family: roboto;
+}
+#nav-link3 {
+    color: black;
+    font-family: roboto;
+}
+#nav-link4 {
+    color: black;
+    font-family: roboto;
+}
+.bgm-container {
+    background-image: url("https://img.freepik.com/free-photo/front-view-female-courier-yellow-uniform-cape-holding-delivery-bowl-pink-wall-service-delivery-job-uniform-worker-girl_140725-43015.jpg?t=st=1724492989~exp=1724496589~hmac=7dcfd33cbb0c0cdc600cfd85aa58d45280733c771b9c8548a88e7f83a3d916b2&w=1380");
+    height: 86vh;
+    background-size: cover;
+    padding: 10px;
+}
+.get-df-heading {
+    color: white;
+    font-family: roboto;
+    font-size: 28px;
+    font-style: solid;
+    font-weight: 700;
+
+}
+.get-df-discription {
+    color: white;
+    font-family: roboto;
+    font-size: 23px;
+    font-style: solid;
+    font-weight: 300;
+    
+}
+.button-orderNow{
+    color: white;
+    font-family: roboto;
+    font-style: solid;
+    height: 42px;
+    width: 95px;
+    border-radius: 7px;
+    border-width: 0px;
+    background-color: rgb(203, 132, 45);
+    margin-right: 10px;
+}
+.button-viewMore{
+    color: white;
+    font-family: roboto;
+    font-style: solid;
+    height: 42px;
+    width: 95px;
+    border-radius: 7px;
+    border-width: 2px;
+    border-color: #cb842d;
+    background-color: transparent;
+}
+.wcu-section-card {
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(19, 19, 19);
+    background-color: rgb(213, 239, 154);
+    border-radius: 10px;
+}
+.img-food-service {
+    height: 92px;
+    width: 95px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.wcu-section-title {
+    font-size: 23px;
+    color: rgb(48, 44, 34);
+
+}
+.wcu-section-para {
+    font-size: 14px;
+    color: rgb(15, 16, 16);
+}
+#course-section-under {
+    height: 100%;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(19, 19, 19);
+    border-radius: 10px;
+}
+
+#embd-section-under {
+    height: 100%;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(19, 19, 19);
+    border-radius: 10px;
+}
+
+.marqe-tag-ling {
+    font-size: 20px;
+    color: rgb(48, 44, 34);
+    font-family: roboto;
+    background-color: rgb(213, 239, 154);
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(19, 19, 19);
+    border-radius: 10px;
+}
